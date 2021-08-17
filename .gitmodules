@@ -6,7 +6,7 @@
 	url = git@github.com:Booooooooooo/CSD.git
 [submodule "CAR"]
 	path = CAR
-	url = git@github.com/sunwj/CAR.git
+	url = https://github.com/sunwj/CAR.git
 [submodule "HAN"]
 	path = HAN
 	url = git@github.com:wwlCape/HAN.git
