@@ -1,4 +1,12 @@
 [submodule "RefVAE"]
 	path = RefVAE
 	url = git@github.com:Holmes-Alan/RefVAE.git
-#[submodule ""]
+[submodule "CSD"]
+	path = CSD
+	url = git@github.com:Booooooooooo/CSD.git
+[submodule "CAR"]
+	path = CAR
+	url = git@github.com/sunwj/CAR.git
+[submodule "HAN"]
+	path = HAN
+	url = git@github.com:wwlCape/HAN.git
